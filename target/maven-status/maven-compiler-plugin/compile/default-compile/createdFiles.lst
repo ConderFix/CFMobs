@@ -1,0 +1,6 @@
+ru\quizie\cfmobs\utils\Colorizer.class
+ru\quizie\cfmobs\CFMobs.class
+ru\quizie\cfmobs\Config.class
+ru\quizie\cfmobs\utils\ConvertNumber.class
+ru\quizie\cfmobs\data\Mob.class
+ru\quizie\cfmobs\listeners\MobDeathListener.class

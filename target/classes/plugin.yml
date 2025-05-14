@@ -1,0 +1,6 @@
+name: CFMobs
+version: '1.0.0'
+main: ru.quizie.cfmobs.CFMobs
+api-version: '1.16'
+depends:
+  - Vault
